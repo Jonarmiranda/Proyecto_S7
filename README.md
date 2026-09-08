@@ -212,6 +212,8 @@ El proyecto se desarrolló en dos etapas:
 
 Proyecto desarrollado como parte de una práctica de análisis de datos y creación de aplicaciones web con Python y Streamlit.
 
+Link app: https://proyecto-s7-tqgt.onrender.com
+
 ## Estado del proyecto
 
 Proyecto funcional para ejecución local. La aplicación puede seguir ampliándose con nuevas visualizaciones, filtros y componentes analíticos.
