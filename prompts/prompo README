@@ -1,0 +1,21 @@
+Actúa como un analista de datos y desarrollador Python. Genera un archivo README.md profesional para este proyecto.
+
+El README debe incluir:
+
+- Título del proyecto.
+- Descripción general.
+- Objetivo.
+- Estructura de carpetas y archivos.
+- Descripción del dataset utilizado.
+- Tecnologías y librerías empleadas.
+- Funcionalidades principales de la aplicación.
+- Instrucciones de instalación.
+- Creación y activación del entorno virtual.
+- Instalación de dependencias.
+- Ejecución de la aplicación.
+- Uso de la aplicación.
+- Manejo de errores.
+- Conclusiones o posibles mejoras futuras.
+- Autor.
+
+Redacta el contenido en formato Markdown limpio, profesional y listo para publicarse en GitHub. Incluye bloques de código cuando sea necesario y utiliza un lenguaje claro orientado a portafolio profesional.
