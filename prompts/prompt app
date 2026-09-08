@@ -1,0 +1,11 @@
+Actúa como un desarrollador intermedio en Streamlit y Python. Escribe el código para app.py que nos permita analizar la información obtenida de nuestro análisis de datos EDA (EDA_vehicles_us.ipynb) La app debe incluir:
+1. Un título y un subtítulo llamativo.
+2. Un checkbox que permita al usuario decidir si desea ver las primeras 5 filas del conjunto de datos en una tabla interactiva.
+3. Filtros de estilo dropdown y checkbox para dar interactividad, que pemrita ordenar de menor a mayor precio, por modelo, por tipo.
+4. Sección gráficos generados con matplotlib o seaborn colocados uno al lado del otro que nos permita iterar entre opciones a elegir:
+   - Un gráfico de barras que muestre las proporciones de una categoria de interés .
+   - Un histograma para la distribución de una variable de interés .
+   - Un  scatterplot entre un par de variables de interés
+5. El diseño debe lucir profesional, limpio y manejar adecuadamente excepciones si el archivo CSV no existe.6. En resumen debe incluir:Al menos un encabezado con texto.Al menos un histograma.Al menos un gráfico de dispersión.Al menos un botón o una casilla de verificación.
+
+Basado en en el notebook que acabas de preparar EDA_vehicles_us.ipynb del archivo vehicles_us.csv.
